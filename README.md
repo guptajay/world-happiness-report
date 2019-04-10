@@ -15,3 +15,8 @@ What things you need to run the program
 * data.xls (Source: http://worldhappiness.report/ed/2019/)
 * factor_of_happiness2018.csv (Source: http://worldhappiness.report/ed/2018/)
 * factor_of_happiness2018(2).csv (Source: http://worldhappiness.report/ed/2018/)
+
+### Authors
+* Gupta Jay
+* Nguyen Duy Khanh
+* Tieu Phat Dat

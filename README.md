@@ -10,7 +10,7 @@ Nanyang Technological University
 ### Prerequisites
 What things you need to run the program
 
-* CZ1015 Mini Project.ipnyb
+* CZ1015_Mini_Project.ipnyb
 * Pandas, Seaborn, Numpy, Matplotlib, Sklearn, Graphviz and Plotly python libraries
 * data.xls (Source: http://worldhappiness.report/ed/2019/)
 * factor_of_happiness2018.csv (Source: http://worldhappiness.report/ed/2018/)
